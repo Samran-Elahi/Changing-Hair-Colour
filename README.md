@@ -15,7 +15,7 @@
  We found that the best approach is to use swish in the generator of the model pix2pix as it gives more sharp and better results. Following is a comparison of all approaches. 
  The results of simple pix2pix GAN and pix2pix with swish in generator are almost the same and are better then other approaches. 
  
- ![benchmark](https://github.com/[Samran-ELahi]/[Changing-Hair-colour]/blob/[master]/capture.png?raw=true)
+ ![benchmark](https://github.com/Samran-Elahi/Changing-Hair-Colour/blob/master/Capture.PNG)
 
  
  ## DLP project report :
